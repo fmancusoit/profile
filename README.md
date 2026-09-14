@@ -1,5 +1,5 @@
 ## ⚒️ Moving
-I'm moving all my repos here --> [git.vps.francescomancuso.it/francesco/](https://git.vps.francescomancuso.it/francesco/)
+I'm moving all my repos here --> [git.francescomancuso.it/francesco/](https://git.francescomancuso.it/francesco/)
 
 ---
 
